@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+    color: #e9ecef;
+    font-size: 2.65rem;
+    box-shadow: rgb(226 245 74 / 50%) 5px 5px 5px;
+    margin: 0px;
+    margin-top: 11px;
+    font-family: fantasy;
+    background-color: #676d73;
+}
+body
+{
+    background-image: url(../img/fondo.svg);
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+    background-color: #ffffff; 
+}
+
+table{
+    margin-top: 30px;  
+    background-color: whitesmoke;
+}
+.boton{
+    color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(65, 105, 225, 0.555);
+    padding: 15px;
+}
+
+.Limp{
+    margin: 0 150px;
+    color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(65, 105, 225, 0.555);
+    padding: 15px;
+}
+
+.btn-primary
+{
+    background-color: #3abbdb;
+    border-color: #3abbdb;
+}
+
+.btn-primary:hover
+{
+    background-color: #344b97;
+    border-color: #344b97;
+}
